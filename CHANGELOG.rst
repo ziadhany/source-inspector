@@ -1,6 +1,12 @@
 Changelog
 =========
 
+v0.7.1
+------
+
+- Use upstream library of tree-sitter-swift
+- Add python3.14 support and deprecate python3.9
+
 v0.7.0
 ------
 
